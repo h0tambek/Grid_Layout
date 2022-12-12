@@ -1,0 +1,19 @@
+{
+  "name": "nakkarov-ui",
+  "version": "1.0.1",
+  "description": "website where I will put all my ideas into designs.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h0tambek/personalprojects.git"
+  },
+  "author": "Hotambek Yusupov (h0tambek)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h0tambek/personalprojects/issues"
+  },
+  "homepage": "https://github.com/h0tambek/personalprojects#readme"
+}
